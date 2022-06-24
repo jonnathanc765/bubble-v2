@@ -1,6 +1,6 @@
 <template>
   <button class="lv-button">
-    <slot /> <span>Jose y mariasssaa</span>
+    <slot /> <span>Jose y mariasssassss</span>
   </button>
 </template>
 <style scoped>
