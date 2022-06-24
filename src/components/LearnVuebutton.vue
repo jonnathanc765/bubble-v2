@@ -1,13 +1,15 @@
 <template>
-  <button class="lv-button">
-    <slot /> <span>Jose y mariasssassss</span>
-  </button>
+  <h2>Mi super componente en libreria</h2>
 </template>
-<style scoped>
-button.lv-button {
-  background-color: red;
+
+<script>
+export default {
+
 }
-span {
-  color: yellow;
+</script>
+
+<style lang="scss">
+h2 {
+  color: red;
 }
 </style>

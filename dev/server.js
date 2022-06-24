@@ -1,7 +1,7 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 import LearnVueButton from 'lv-button'
-// import 'lv-button/dist/style.css'
+import 'lv-button/dist/style.css'
 
 const app = createApp(App);
 
